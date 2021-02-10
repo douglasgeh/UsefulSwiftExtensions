@@ -9,3 +9,5 @@ Useful swift extensions that might help you someday =)
 * Dequeue custom TableView/CollectionView cells
 * Sorting array in ascending/descending order using an specific key
 * Place loading indicator
+* Clear navigation bar background
+* Remove SubView with specific tag
